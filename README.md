@@ -1,4 +1,4 @@
-## Hi!
+## Welcome to me page!
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=compil71ing&utm_content=farm">
 <img
@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about .
 - 📫 How to reach me: ...
 - 😄 Pronouns: .
-- ⚡ Fun fact: ..
+- ⚡ Fun fact: .
 -->
